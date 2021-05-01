@@ -1,0 +1,1 @@
+# MSSQL-Okul-Sistemi-Veri-Tabani
